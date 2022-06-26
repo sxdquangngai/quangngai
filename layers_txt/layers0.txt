@@ -3,7 +3,7 @@
     {
       "type": "Layer",
       "id": "std",
-      "title": "Tiêu chuẩn",
+      "title": "Tiêu chuẩn1",
       "url": "http://a.tile.opencyclemap.org/cycle/${z}/${x}/${y}.png",
       "cocotile": true,
       "html" : "",
