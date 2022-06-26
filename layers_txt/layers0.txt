@@ -45,7 +45,7 @@
     {
       "type": "Layer",
       "id": "ort",
-      "title": "写真",
+      "title": "Ảnh",
       "url": "https://maps.gsi.go.jp/xyz/seamlessphoto/{z}/{x}/{y}.jpg",
       "cocotile": true,
       "html" : "",
