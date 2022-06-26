@@ -2,7 +2,7 @@
   "layers": [
     {
       "type": "LayerGroup",
-      "title": "年代別の写真",
+      "title": "Viet Nam",
       "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/670.png",
       "toggleall": false,
       "html" : "<div class='layer_text'>第二次世界大戦前から現在に至る年代別の写真を閲覧できます。</div>",
@@ -31,8 +31,8 @@
         {
           "type": "Layer",
           "id": "seamlessphoto_spec",
-          "title": "┗撮影期間",
-          "url": "https://maps.gsi.go.jp/xyz/seamlessphoto_spec/{z}/{x}/{y}.geojson",
+          "title": "ok",
+          "url": "https://raw.githubusercontent.com/tanphat132/soxaydung/main/duan.geojson",
           "cocotile": true,
           "minZoom": 14,
           "maxZoom": 18,
