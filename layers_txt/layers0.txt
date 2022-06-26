@@ -3,7 +3,7 @@
     {
       "type": "Layer",
       "id": "std",
-      "title": "標準地図",
+      "title": "g",
       "url": "https://maps.gsi.go.jp/xyz/std/{z}/{x}/{y}.png?_=20210915a",
       "cocotile": true,
       "html" : "",
@@ -13,7 +13,7 @@
     {
       "type": "Layer",
       "id": "pale",
-      "title": "淡色地図",
+      "title": "fsf",
       "url": "https://maps.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png?_=20210915a",
       "cocotile": true,
       "html" : "",
@@ -23,7 +23,7 @@
     {
       "type": "Layer",
       "id": "blank",
-      "title": "白地図",
+      "title": "hehe",
       "url": "https://maps.gsi.go.jp/xyz/blank/{z}/{x}/{y}.png?_=20210915a",
       "cocotile": true,
       "maxNativeZoom": 14,
@@ -34,7 +34,7 @@
     {
       "type": "Layer",
       "id": "english",
-      "title": "English",
+      "title": "Te",
       "url": "https://maps.gsi.go.jp/xyz/english/{z}/{x}/{y}.png?_=20210915a",
       "cocotile": true,
       "maxNativeZoom": 11,
