@@ -4,7 +4,7 @@
       "type": "Layer",
       "id": "std",
       "title": "Cảnh",
-      "url": "https://tile.thunderforest.com/landscape/${z}/${x}/${y}.png",
+      "url": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
       "cocotile": true,
       "html" : "",
       "legendUrl": "https://maps.gsi.go.jp/development/ichiran.html#std",
