@@ -3,8 +3,8 @@
     {
       "type": "Layer",
       "id": "std",
-      "title": "Hỗn hợp Hình ảnh",
-      "url": "http://server.arcgisonline.com/ArcGIS/rest/services/OpenStreetMap/MapServer/tile/{z}/{y}/{x}",
+      "title": "Tiêu chuẩn",
+      "url": "https://tile.openstreetmap.org/${z}/${x}/${y}.png",
       "cocotile": true,
       "html" : "",
       "legendUrl": "https://maps.gsi.go.jp/development/ichiran.html#std",
