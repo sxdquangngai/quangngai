@@ -3,8 +3,8 @@
     {
       "type": "Layer",
       "id": "std",
-      "title": "Cảnh",
-      "url": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      "title": "Hỗn hợp Hình ảnh",
+      "url": "http://server.arcgisonline.com/ArcGIS/rest/services/OpenStreetMap/MapServer/tile/{z}/{y}/{x}",
       "cocotile": true,
       "html" : "",
       "legendUrl": "https://maps.gsi.go.jp/development/ichiran.html#std",
@@ -13,8 +13,8 @@
     {
       "type": "Layer",
       "id": "pale",
-      "title": "Esri Topo",
-      "url": "http://server.arcgisonline.com/ArcGIS/rest/services/ESRI_Imagery_World_2D/MapServer/tile/{z}/{y}/{x}",
+      "title": "OpenStreetMap",
+      "url": "http://server.arcgisonline.com/ArcGIS/rest/services/OpenStreetMap/MapServer/tile/{z}/{y}/{x}",
       "cocotile": true,
       "html" : "",
       "legendUrl": "https://maps.gsi.go.jp/development/ichiran.html#pale",
