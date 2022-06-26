@@ -3,8 +3,8 @@
     {
       "type": "Layer",
       "id": "std",
-      "title": "g",
-      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+      "title": "Cảnh",
+      "url": "https://tile.thunderforest.com/landscape/${z}/${x}/${y}.png",
       "cocotile": true,
       "html" : "",
       "legendUrl": "https://maps.gsi.go.jp/development/ichiran.html#std",
@@ -14,7 +14,7 @@
       "type": "Layer",
       "id": "pale",
       "title": "Esri Topo",
-      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}",
+      "url": "http://server.arcgisonline.com/ArcGIS/rest/services/ESRI_Imagery_World_2D/MapServer/tile/{z}/{y}/{x}",
       "cocotile": true,
       "html" : "",
       "legendUrl": "https://maps.gsi.go.jp/development/ichiran.html#pale",
@@ -24,9 +24,8 @@
       "type": "Layer",
       "id": "blank",
       "title": "Địa hình",
-      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}",
       "cocotile": true,
-      "maxNativeZoom": 14,
       "html" : "",
       "legendUrl": "",
       "errorTileUrl": "./image/map/no-data-blank.png"
@@ -34,10 +33,9 @@
     {
       "type": "Layer",
       "id": "english",
-      "title": "Đường",
+      "title": "Đường phố",
       "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}",
       "cocotile": true,
-      "maxNativeZoom": 11,
       "html" : "",
       "legendUrl": "https://maps.gsi.go.jp/development/ichiran.html#english",
       "errorTileUrl": "./image/map/no-data-english.png"
@@ -48,7 +46,6 @@
       "title": "Ảnh",
       "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
       "cocotile": true,
-      "maxNativeZoom": 11,
       "html" : "",
       "legendUrl": "",
       "errorTileUrl": "./image/map/no-data-ort.png"
