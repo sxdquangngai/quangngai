@@ -46,7 +46,7 @@
       "type": "Layer",
       "id": "ort",
       "title": "Ảnh",
-      "url": "https://maps.gsi.go.jp/xyz/seamlessphoto/{z}/{x}/{y}.jpg",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
       "cocotile": true,
       "html" : "",
       "legendUrl": "",
