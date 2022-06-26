@@ -34,7 +34,7 @@
     {
       "type": "Layer",
       "id": "20160414kumamoto_faultmodel",
-      "title": "震源断層モデル",
+      "title": "Danh",
       "url": "https://maps.gsi.go.jp/overlay/160414kumamoto/20160414kumamoto_faultmodel.kml",
       "minZoom": 3,
       "maxZoom": 12,
@@ -48,8 +48,8 @@
         {
           "type": "Layer",
           "id": "20160414kumamoto_fvector",
-          "title": "4月16日01時25分（M7.3）<br>迅速解（水平）",
-          "url": "https://maps.gsi.go.jp/xyz/20160414kumamoto_fvector/{z}/{x}/{y}.geojson",
+          "title": "du an",
+          "url": "https://raw.githubusercontent.com/tanphat132/soxaydung/main/duan.geojson",
           "cocotile": false,
           "minZoom": 5,
           "maxZoom": 17,
