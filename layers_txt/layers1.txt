@@ -32,7 +32,7 @@
           "type": "Layer",
           "id": "seamlessphoto_spec",
           "title": "HC",
-          "url": "https://raw.githubusercontent.com/tanphat132/quangngai/main/Hanhchinhquangngai.geojson",
+          "url": "https://raw.githubusercontent.com/tanphat132/soxaydung/main/hcquangngai.geojson",
           "cocotile": true,
           "minZoom": 14,
           "maxZoom": 18,
