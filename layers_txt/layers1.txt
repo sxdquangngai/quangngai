@@ -24,7 +24,7 @@
           "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/670.png",
           "url": "https://raw.githubusercontent.com/tanphat132/soxaydung/main/duan.geojson",
           "cocotile": true,
-          "minZoom": 2,
+          "minZoom": 14,
           "maxZoom": 18,
           "html": "<div class='layer_text'><p>各地域の最新の空中写真です。</p></div><a target=\"_blank\" href=\"https://cyberjapandata.gsi.go.jp/legend/seamlessphoto.pdf\">（詳細解説）</a>"
         },
