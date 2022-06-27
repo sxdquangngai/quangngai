@@ -7,7 +7,6 @@
      ]]
    },
   "style":{
-      //all SVG styles allowed
       "fill":"red",
       "stroke-width":"3",
       "fill-opacity":0.6
