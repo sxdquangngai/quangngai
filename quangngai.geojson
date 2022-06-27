@@ -1,4 +1,4 @@
-var vnm__quang_ngai__quang_ngai = {
+{
     "type": "Feature",
     "properties": {
         "popupContent":"ThÃ nh phá»‘ Quáº£ng NgÃ£i",
@@ -10,7 +10,7 @@ var vnm__quang_ngai__quang_ngai = {
 };
 
 
-var vnm__quang_ngai__ba_to = {
+{
     "type": "Feature",
     "properties": {
         "popupContent":"Huyá»‡n Ba TÆ¡",
@@ -22,7 +22,7 @@ var vnm__quang_ngai__ba_to = {
 };
 
 
-var vnm__quang_ngai__binh_son = {
+{
     "type": "Feature",
     "properties": {
         "popupContent":"Huyá»‡n BÃ¬nh SÆ¡n",
@@ -34,7 +34,7 @@ var vnm__quang_ngai__binh_son = {
 };
 
 
-var vnm__quang_ngai__duc_pho = {
+{
     "type": "Feature",
     "properties": {
         "popupContent":"Huyá»‡n Äá»©c Phá»•",
@@ -46,7 +46,7 @@ var vnm__quang_ngai__duc_pho = {
 };
 
 
-var vnm__quang_ngai__ly_son = {
+{
     "type": "Feature",
     "properties": {
         "popupContent":"Huyá»‡n LÃ½ SÆ¡n",
@@ -57,8 +57,7 @@ var vnm__quang_ngai__ly_son = {
 }
 };
 
-
-var vnm__quang_ngai__minh_long = {
+{
     "type": "Feature",
     "properties": {
         "popupContent":"Huyá»‡n Minh Long",
@@ -70,7 +69,7 @@ var vnm__quang_ngai__minh_long = {
 };
 
 
-var vnm__quang_ngai__mo_duc = {
+ {
     "type": "Feature",
     "properties": {
         "popupContent":"Huyá»‡n Má»™ Äá»©c",
@@ -82,7 +81,7 @@ var vnm__quang_ngai__mo_duc = {
 };
 
 
-var vnm__quang_ngai__nghia_hanh = {
+{
     "type": "Feature",
     "properties": {
         "popupContent":"Huyá»‡n NghÄ©a HÃ nh",
@@ -94,7 +93,7 @@ var vnm__quang_ngai__nghia_hanh = {
 };
 
 
-var vnm__quang_ngai__son_ha = {
+ {
     "type": "Feature",
     "properties": {
         "popupContent":"Huyá»‡n SÆ¡n HÃ ",
@@ -106,7 +105,7 @@ var vnm__quang_ngai__son_ha = {
 };
 
 
-var vnm__quang_ngai__son_tay = {
+{
     "type": "Feature",
     "properties": {
         "popupContent":"Huyá»‡n SÆ¡n TÃ¢y",
@@ -118,7 +117,7 @@ var vnm__quang_ngai__son_tay = {
 };
 
 
-var vnm__quang_ngai__son_tinh = {
+{
     "type": "Feature",
     "properties": {
         "popupContent":"Huyá»‡n SÆ¡n Tá»‹nh",
@@ -130,7 +129,7 @@ var vnm__quang_ngai__son_tinh = {
 };
 
 
-var vnm__quang_ngai__tay_tra = {
+{
     "type": "Feature",
     "properties": {
         "popupContent":"Huyá»‡n TÃ¢y TrÃ ",
@@ -142,7 +141,7 @@ var vnm__quang_ngai__tay_tra = {
 };
 
 
-var vnm__quang_ngai__tra_bong = {
+{
     "type": "Feature",
     "properties": {
         "popupContent":"Huyá»‡n TrÃ  Bá»“ng",
@@ -154,7 +153,7 @@ var vnm__quang_ngai__tra_bong = {
 };
 
 
-var vnm__quang_ngai__tu_nghia = {
+{
     "type": "Feature",
     "properties": {
         "popupContent":"Huyá»‡n TÆ° NghÄ©a",
