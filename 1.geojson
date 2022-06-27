@@ -49,7 +49,6 @@
 			},
 			"style": {
 				"icon": {
-					"iconUrl": "metro.png",
 					"iconSize": [32, 32],
 					"iconAnchor": [16, 16]
 				}
