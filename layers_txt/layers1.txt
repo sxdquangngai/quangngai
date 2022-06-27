@@ -22,7 +22,7 @@
           "id": "seamlessphoto",
           "title": "Dia gioi hanh chinh",
           "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/670.png",
-          "url": "https://raw.githubusercontent.com/tanphat132/quangngai/main/Hanhchinhquangngai.geojson",
+          "url": "https://raw.githubusercontent.com/tanphat132/soxaydung/main/duan.geojson",
           "cocotile": true,
           "minZoom": 2,
           "maxZoom": 18,
