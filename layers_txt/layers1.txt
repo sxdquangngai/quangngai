@@ -88,7 +88,7 @@
                   "type": "Layer",
                   "id": "nendophoto2020",
                   "title": "2020年",
-                  "url": "https://maps.gsi.go.jp/xyz/nendophoto2020/{z}/{x}/{y}.png",
+                  "url": "http://113.160.246.13:6080/arcgis/rest/services/dothi12/MapServer/1",
                   "cocotile": true,
                   "minZoom": 14,
                   "maxZoom": 18
