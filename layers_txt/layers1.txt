@@ -30,7 +30,7 @@
         },
         {
           "type": "Layer",
-          "id": "seamlessphoto_spec",
+          "id": "nendophoto2017",
           "title": "HC",
           "url": "https://raw.githubusercontent.com/tanphat132/soxaydung/main/hcquangngai.geojson",
           "cocotile": true,
