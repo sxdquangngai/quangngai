@@ -88,7 +88,7 @@
                   "type": "Layer",
                   "id": "nendophoto2020",
                   "title": "2020年",
-                  "url": "http://113.160.246.13:6080/arcgis/rest/services/dothi12/MapServer/1/{z}/{x}/{y}.geojson",
+                  "url": "http://113.160.246.13:6080/arcgis/rest/services/dothi12/MapServer/4?f=pjson",
                   "cocotile": true,
                   "minZoom": 14,
                   "maxZoom": 18
