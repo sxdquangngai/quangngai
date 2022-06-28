@@ -213,7 +213,7 @@
                   "type": "Layer",
                   "id": "nendophoto2016_spec",
                   "title": "2016年",
-                  "url": "https://maps.gsi.go.jp/xyz/nendophoto2016/{z}/{x}/{y}.geojson",
+                  "url": "http://113.160.246.13:6080/arcgis/rest/services/dothi12/MapServer/1/{z}/{x}/{y}.geojson",
                   "cocotile": false,
                   "minZoom": 2,
                   "maxZoom": 13,
