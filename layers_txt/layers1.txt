@@ -81,13 +81,13 @@
               "title": "2020年",
               "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/670.png",
               "toggleall": true,
-              "id": "nendophoto2020",
+              "id": "nendo",
               "html": "<div class=\"gsi_layerinfo_subtitle\">電子国土基本図（オルソ画像）、森林（国有林の空中写真）、簡易空中写真を撮影年度ごとにまとめたものです。ズームレベル14～18で表示されます。<br>ズームレベル13までで表示される撮影範囲をクリックすると、撮影年月を確認できます。<br>撮影範囲はデータソースごとに以下の色で表示されます。</div><ul style=\"list-style-type:none; padding-left: 10px; margin: 5px\"><li style=\"line-height: 1.2\"><span style=\"font-size:x-large; color:#0000ff\">■</span> 電子国土基本図（オルソ画像）</li><li style=\"line-height: 1.2\"><span style=\"font-size:x-large; color:#008000\">■</span> 森林（国有林の空中写真）</li><li style=\"line-height: 1.2\"><span style=\"font-size:x-large; color:#ff00ff\">■</span> 簡易空中写真</li>",
               "entries": [
                 {
                   "type": "Layer",
-                  "id": "nendophoto2020",
-                  "title": "2020年",
+                  "id": "nendo",
+                  "title": "2020",
                   "url": "http://113.160.246.13:6080/arcgis/rest/services/dothi12/MapServer/4?f=pjson",
                   "cocotile": true,
                   "minZoom": 14,
@@ -95,8 +95,8 @@
                 },
                 {
                   "type": "Layer",
-                  "id": "nendophoto2020_spec",
-                  "title": "2020年",
+                  "id": "nendopho",
+                  "title": "2020",
                   "url": "http://113.160.246.13:6080/arcgis/rest/services/dothi12/MapServer/4?f=pjson",
                   "cocotile": false,
                   "minZoom": 2,
