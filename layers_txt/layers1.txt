@@ -233,7 +233,7 @@
                   "type": "Layer",
                   "id": "nendophoto2015",
                   "title": "2015年",
-                  "url": "https://github.com/tanphat132/webmap/blob/main/Thach%20bich-tinhphong.kml",
+                  "url": "https://raw.githubusercontent.com/tanphat132/webmap/main/Thach%20bich.kml",
                   "cocotile": true,
                   "minZoom": 14,
                   "maxZoom": 18
