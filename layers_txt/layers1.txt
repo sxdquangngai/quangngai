@@ -204,7 +204,7 @@
                   "type": "Layer",
                   "id": "nendophoto2016",
                   "title": "2016年",
-                  "url": "https://github.com/tanphat132/webmap/blob/main/TIM%20TUYEN%20duong%20ven%20bien-DungQuat-Sahuynh.kml",
+                  "url": "https://raw.githubusercontent.com/tanphat132/webmap/main/TIM%20TUYEN%20duong%20ven%20bien-DungQuat-Sahuynh.kml",
                   "cocotile": true,
                   "minZoom": 14,
                   "maxZoom": 18
