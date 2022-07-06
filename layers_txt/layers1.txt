@@ -62,7 +62,7 @@
                   "url": "https://raw.githubusercontent.com/tanphat132/quangngai/main/220504 - QH03- QHSDD Duc Pho-ĐCCB_25.04.2022- 1.200012.kml",
                   "cocotile": true,
                   "minZoom": 14,
-                  "maxZoom": 18
+                  "maxZoom": 50
                 },
                 {
                   "type": "Layer",
@@ -71,7 +71,7 @@
                   "url": "https://maps.gsi.go.jp/xyz/nendophoto2021/{z}/{x}/{y}.geojson",
                   "cocotile": false,
                   "minZoom": 2,
-                  "maxZoom": 13,
+                  "maxZoom": 50,
                   "maxNativeZoom": 2
                 }
               ]
@@ -91,7 +91,7 @@
                   "url": "https://raw.githubusercontent.com/tanphat132/quangngai/main/1.MAT%20BANG%20TONG%20THE(24-06-2022)123.kml",
                   "cocotile": true,
                   "minZoom": 14,
-                  "maxZoom": 18
+                  "maxZoom": 50
                 },
                 {
                   "type": "Layer",
@@ -100,7 +100,7 @@
                   "url": "http://113.160.246.13:6080/arcgis/rest/services/dothi12/MapServer/4?f=pjson",
                   "cocotile": false,
                   "minZoom": 2,
-                  "maxZoom": 13,
+                  "maxZoom": 50,
                   "maxNativeZoom": 2
                 }
               ]
@@ -120,7 +120,7 @@
                   "url": "https://raw.githubusercontent.com/tanphat132/webmap/main/Hoangsa-Docsoi.kml",
                   "cocotile": true,
                   "minZoom": 14,
-                  "maxZoom": 18
+                  "maxZoom": 50
                 },
                 {
                   "type": "Layer",
@@ -129,7 +129,7 @@
                   "url": "https://maps.gsi.go.jp/xyz/nendophoto2019/{z}/{x}/{y}.geojson",
                   "cocotile": false,
                   "minZoom": 2,
-                  "maxZoom": 13,
+                  "maxZoom": 50,
                   "maxNativeZoom": 2
                 }
               ]
@@ -149,7 +149,7 @@
                   "url": "https://raw.githubusercontent.com/tanphat132/webmap/main/duongsat.kml",
                   "cocotile": true,
                   "minZoom": 14,
-                  "maxZoom": 18
+                  "maxZoom": 50
                 },
                 {
                   "type": "Layer",
@@ -158,7 +158,7 @@
                   "url": "https://maps.gsi.go.jp/xyz/nendophoto2018/{z}/{x}/{y}.geojson",
                   "cocotile": false,
                   "minZoom": 2,
-                  "maxZoom": 13,
+                  "maxZoom": 50,
                   "maxNativeZoom": 2
                 }
               ]
@@ -178,7 +178,7 @@
                   "url": "https://github.com/tanphat132/webmap/blob/main/duongsat%20cao%20toc.kml",
                   "cocotile": true,
                   "minZoom": 14,
-                  "maxZoom": 18
+                  "maxZoom": 50
                 },
                 {
                   "type": "Layer",
@@ -187,7 +187,7 @@
                   "url": "https://maps.gsi.go.jp/xyz/nendophoto2017/{z}/{x}/{y}.geojson",
                   "cocotile": false,
                   "minZoom": 2,
-                  "maxZoom": 13,
+                  "maxZoom": 50,
                   "maxNativeZoom": 2
                 }
               ]
@@ -207,7 +207,7 @@
                   "url": "https://raw.githubusercontent.com/tanphat132/webmap/main/TIM%20TUYEN%20duong%20ven%20bien-DungQuat-Sahuynh.kml",
                   "cocotile": true,
                   "minZoom": 14,
-                  "maxZoom": 18
+                  "maxZoom": 50
                 },
                 {
                   "type": "Layer",
@@ -236,7 +236,7 @@
                   "url": "https://raw.githubusercontent.com/tanphat132/webmap/main/Thach%20bich.kml",
                   "cocotile": true,
                   "minZoom": 14,
-                  "maxZoom": 18
+                  "maxZoom": 50
                 },
                 {
                   "type": "Layer",
