@@ -59,7 +59,7 @@
                   "type": "Layer",
                   "id": "nendophoto2021",
                   "title": "2021年",
-                  "url": "https://maps.gsi.go.jp/xyz/nendophoto2021/{z}/{x}/{y}.png",
+                  "url": "https://raw.githubusercontent.com/tanphat132/quangngai/main/220504-QH03-QHSDD%20Duc%20Pho-DCCB_25.04.2022-1.2000.kml",
                   "cocotile": true,
                   "minZoom": 14,
                   "maxZoom": 18
