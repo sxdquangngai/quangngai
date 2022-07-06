@@ -49,7 +49,7 @@
           "entries": [
             {
               "type": "LayerGroup",
-              "title": "2021年",
+              "title": "Quy hoạch SDD 1/2000 thị xã Đức Phổ",
               "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/670.png",
               "toggleall": true,
               "id": "nendophoto2021",
@@ -58,7 +58,7 @@
                 {
                   "type": "Layer",
                   "id": "nendophoto2021",
-                  "title": "2021年",
+                  "title": "Quy hoạch SDD 1/2000 thị xã Đức Phổ",
                   "url": "https://raw.githubusercontent.com/tanphat132/quangngai/main/220504 - QH03- QHSDD Duc Pho-ĐCCB_25.04.2022- 1.200012.kml",
                   "cocotile": true,
                   "minZoom": 14,
@@ -78,7 +78,7 @@
             },
             {
               "type": "LayerGroup",
-              "title": "2020年",
+              "title": "Dự án thoát nước thị xã Đức Phổ",
               "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/670.png",
               "toggleall": true,
               "id": "nendo",
@@ -87,7 +87,7 @@
                 {
                   "type": "Layer",
                   "id": "nendo",
-                  "title": "2020",
+                  "title": "Dự án thoát nước thị xã Đức Phổ",
                   "url": "https://raw.githubusercontent.com/tanphat132/quangngai/main/1.MAT%20BANG%20TONG%20THE(24-06-2022)123.kml",
                   "cocotile": true,
                   "minZoom": 14,
@@ -107,7 +107,7 @@
             },
             {
               "type": "LayerGroup",
-              "title": "2019年",
+              "title": "Dự án đường Hoàng Sa - Dốc Sỏi",
               "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/670.png",
               "toggleall": true,
               "id": "nendophoto2019",
@@ -116,8 +116,8 @@
                 {
                   "type": "Layer",
                   "id": "nendophoto2019",
-                  "title": "2019年",
-                  "url": "https://maps.gsi.go.jp/xyz/nendophoto2019/{z}/{x}/{y}.png",
+                  "title": "Dự án đường Hoàng Sa - Dốc Sỏi",
+                  "url": "https://github.com/tanphat132/webmap/blob/main/Hoang%20Sa%20-%20Doc%20Soi.kml",
                   "cocotile": true,
                   "minZoom": 14,
                   "maxZoom": 18
@@ -136,7 +136,7 @@
             },
             {
               "type": "LayerGroup",
-              "title": "2018年",
+              "title": "Dự án đường Cao tốc Quảng Ngãi - Hoài Nhơn",
               "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/670.png",
               "toggleall": true,
               "id": "nendophoto2018",
@@ -144,9 +144,9 @@
               "entries": [
                 {
                   "type": "Layer",
-                  "id": "nendophoto2018",
+                  "id": "Dự án đường Cao tốc Quảng Ngãi - Hoài Nhơn1",
                   "title": "2018年",
-                  "url": "https://maps.gsi.go.jp/xyz/nendophoto2018/{z}/{x}/{y}.png",
+                  "url": "https://github.com/tanphat132/webmap/blob/main/duongsat%20cao%20toc.kml",
                   "cocotile": true,
                   "minZoom": 14,
                   "maxZoom": 18
@@ -165,7 +165,7 @@
             },
             {
               "type": "LayerGroup",
-              "title": "2017年",
+              "title": "Đường Săt Cao tốc - Bắc Nam",
               "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/670.png",
               "toggleall": true,
               "id": "nendophoto2017",
@@ -175,7 +175,7 @@
                   "type": "Layer",
                   "id": "nendophoto2017",
                   "title": "2017年",
-                  "url": "https://maps.gsi.go.jp/xyz/nendophoto2017/{z}/{x}/{y}.png",
+                  "url": "https://github.com/tanphat132/webmap/blob/main/duongsat%20cao%20toc.kml",
                   "cocotile": true,
                   "minZoom": 14,
                   "maxZoom": 18
@@ -194,7 +194,7 @@
             },
             {
               "type": "LayerGroup",
-              "title": "2016年",
+              "title": "Dự án Dung Quất - Sa Huỳnh",
               "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/670.png",
               "toggleall": true,
               "id": "nendophoto2016",
@@ -204,7 +204,7 @@
                   "type": "Layer",
                   "id": "nendophoto2016",
                   "title": "2016年",
-                  "url": "https://maps.gsi.go.jp/xyz/nendophoto2016/{z}/{x}/{y}.png",
+                  "url": "https://github.com/tanphat132/webmap/blob/main/TIM%20TUYEN%20duong%20ven%20bien-DungQuat-Sahuynh.kml",
                   "cocotile": true,
                   "minZoom": 14,
                   "maxZoom": 18
@@ -223,7 +223,7 @@
             },
             {
               "type": "LayerGroup",
-              "title": "2015年",
+              "title": "Dự án Thạch Bích - Tịnh Phong",
               "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/670.png",
               "toggleall": true,
               "id": "nendophoto2015",
@@ -233,7 +233,7 @@
                   "type": "Layer",
                   "id": "nendophoto2015",
                   "title": "2015年",
-                  "url": "https://maps.gsi.go.jp/xyz/nendophoto2015/{z}/{x}/{y}.png",
+                  "url": "https://github.com/tanphat132/webmap/blob/main/Thach%20bich-tinhphong.kml",
                   "cocotile": true,
                   "minZoom": 14,
                   "maxZoom": 18
