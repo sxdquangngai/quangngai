@@ -117,7 +117,7 @@
                   "type": "Layer",
                   "id": "nendophoto2019",
                   "title": "Dự án đường Hoàng Sa - Dốc Sỏi",
-                  "url": "https://github.com/tanphat132/webmap/blob/main/Hoang%20Sa%20-%20Doc%20Soi.kml",
+                  "url": "https://raw.githubusercontent.com/tanphat132/webmap/main/Hoangsa-Docsoi.kml",
                   "cocotile": true,
                   "minZoom": 14,
                   "maxZoom": 18
