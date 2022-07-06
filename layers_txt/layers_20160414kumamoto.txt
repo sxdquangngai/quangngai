@@ -3,7 +3,7 @@
     {
       "type": "Layer",
       "id": "fukkyukizu",
-      "title": "応急復旧対策基図",
+      "title": "QH",
       "url": "https://maps.gsi.go.jp/xyz/fukkyukizu/{z}/{x}/{y}.png",
       "cocotile": false,
       "minZoom": 5,
