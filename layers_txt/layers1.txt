@@ -146,7 +146,7 @@
                   "type": "Layer",
                   "id": "Dự án đường Cao tốc Quảng Ngãi - Hoài Nhơn1",
                   "title": "2018年",
-                  "url": "https://github.com/tanphat132/webmap/blob/main/duongsat%20cao%20toc.kml",
+                  "url": "https://raw.githubusercontent.com/tanphat132/webmap/main/timtuyencaotoc.kml",
                   "cocotile": true,
                   "minZoom": 14,
                   "maxZoom": 18
