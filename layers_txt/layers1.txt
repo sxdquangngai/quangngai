@@ -88,7 +88,7 @@
                   "type": "Layer",
                   "id": "nendo",
                   "title": "2020",
-                  "url": "http://113.160.246.13:6080/arcgis/rest/services/dothi12/MapServer/4?f=pjson",
+                  "url": "https://raw.githubusercontent.com/tanphat132/quangngai/main/1.MAT%20BANG%20TONG%20THE(24-06-2022)123.kml",
                   "cocotile": true,
                   "minZoom": 14,
                   "maxZoom": 18
