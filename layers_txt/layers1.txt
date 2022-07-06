@@ -59,7 +59,7 @@
                   "type": "Layer",
                   "id": "nendophoto2021",
                   "title": "2021年",
-                  "url": "https://raw.githubusercontent.com/tanphat132/quangngai/main/220504-QH03-QHSDD%20Duc%20Pho-DCCB_25.04.2022-1.2000.kml",
+                  "url": "https://raw.githubusercontent.com/tanphat132/quangngai/main/220504 - QH03- QHSDD Duc Pho-ĐCCB_25.04.2022- 1.200012.kml",
                   "cocotile": true,
                   "minZoom": 14,
                   "maxZoom": 18
