@@ -24,9 +24,9 @@
     },
     {
       "type": "Layer",
-      "id": "20160414kumamoto_shinou_all",
+      "id": "Duc pho",
       "title": "震源分布データ",
-      "url": "https://maps.gsi.go.jp/overlay/160414kumamoto/20160414kumamoto_shinou_all.kml",
+      "url": "https://raw.githubusercontent.com/tanphat132/quangngai/main/220504-QH03-QHSDD%20Duc%20Pho-DCCB_25.04.2022-1.2000.kml",
       "minZoom": 2,
       "maxZoom": 12,
       "html": "このデータは、気象庁が大学や国立研究開発法人防災科学技術研究所等の関係機関から地震観測データの提供を受け、文部科学省と協力して整理したものです。<br><br><div class=\"gsi_layerinfo_title\">平成28年4月14日に熊本県で発生した地震において、発生後１週間以内に起きたマグニチュード４以上の震源分布データ</div><br><table border=\"1\" cellspacing=\"0\" bordercolor=\"#000000\"><tr><td>大きさ</td><td>マグニチュード</td></tr><tr><td><img src=\"//maps.gsi.go.jp/portal/sys/v4/symbols/081.png\" alt=\"大きさ\" width=\"20\" height=\"20\"></td><td>４以上</td></tr><tr><td><img src=\"//maps.gsi.go.jp/portal/sys/v4/symbols/081.png\" alt=\"大きさ\"  width=\"30\" height=\"30\"></td><td>５以上</td></tr><tr><td><img src=\"//maps.gsi.go.jp/portal/sys/v4/symbols/081.png\" alt=\"大きさ\"  width=\"40\" height=\"40\"></td><td>６以上</td></tr><tr><td><img src=\"//maps.gsi.go.jp/portal/sys/v4/symbols/081.png\" alt=\"大きさ\"  width=\"50\" height=\"50\"></td><td>７以上</td></tr></table>"
