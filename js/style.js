@@ -50,8 +50,8 @@ geojsonOptions:{
     statesLayer = L.geoJson(states, {
         style: function(feature) {
                   switch (feature.properties.party) {
-                case 'Huyện Sơn Tây': return {color: "#ff0000"};
-                case 'Huyện Sơn Hà':  return {color: "#0000ff"};
+                case "Huyện Sơn Tây": return {color: "#ff0000"};
+                case "Huyện Sơn Hà":  return {color: "#0000ff"};
             }
         },
         onEachFeature: onEachFeature,
