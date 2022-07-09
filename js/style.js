@@ -48,13 +48,13 @@ geojsonOptions:{
     for(name in feature.properties) {
       if(!name.match(/^_/)){
         if(name=="name"){
-          s += "<tr><th colspan='2' style='font-size:14px; font-weight:bold; color:#000000;'>" + feature.properties[name] + "</th></tr>";
+          s += "<tr><th colspan='2' style='font-size:14px; font-weight:bold; color:#EE2424;'>" + feature.properties[name] + "</th></tr>";
         }else if(name=="description"){
-          s += "<tr><td colspan='2' style='font-size:14px; color:#000000;'>" + feature.properties[name] + "</td></tr>";
+          s += "<tr><td colspan='2' style='font-size:14px; color:#31EE24;'>" + feature.properties[name] + "</td></tr>";
 
         // (UAV)動画
         }else if(name=="iframe"){
-          s += "<tr><td colspan='2' style='font-size:14px; color:#000000;'>" + feature.properties[name] + "</td></tr>";
+          s += "<tr><td colspan='2' style='font-size:14px; color:#EE8224;'>" + feature.properties[name] + "</td></tr>";
 
         // 斜め写真・垂直写真
         }else if(name=="写真"){
@@ -72,7 +72,7 @@ geojsonOptions:{
 
         }else{
           s += "<tr><td style='vertical-align:top; font-size:14px; color:#FF0080;'>" + name + "</td>"
-               + "<td style='font-size:14px; color:#000000;'>" + feature.properties[name] + "</td></tr>";
+               + "<td style='font-size:14px; color:#00C4FF;'>" + feature.properties[name] + "</td></tr>";
         }
       }
     }
