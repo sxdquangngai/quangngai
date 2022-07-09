@@ -13577,7 +13577,7 @@ GSI.GeoJSON = L.Layer.extend({
     geoJSONOptions.onEachFeature = L.bind(this.onEachFeature, this);
     geoJSONOptions.pointToLayer = L.bind(this.onPointToLayer, this);
     geoJSONOptions.geodesic = this.options.geodesic;
-    this.layer = new L.geoJson.css(null, geoJSONOptions);
+    this.layer = new L.GeoJSON(null, geoJSONOptions);
 
     if (!this._layerAdded && this._map) {
       var zoom = this._map.getZoom();
