@@ -44,7 +44,16 @@ geojsonOptions:{
   onEachFeature: function (feature, layer) {
     var s = "<table>";
     var photoFlg = false;
-
+    statesLayer = L.geoJson(states, {
+        style: function(feature) {
+                  switch (feature.properties.party) {
+                case 'Huyện Sơn Tây': return {color: "#ff0000"};
+                case 'Huyện Sơn Hà':   return {color: "#0000ff"};
+            }
+        },
+        onEachFeature: onEachFeature,
+    }).addTo(map);
+        
     for(name in feature.properties) {
       if(!name.match(/^_/)){
         if(name=="name"){
