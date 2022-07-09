@@ -41,22 +41,13 @@ geojsonOptions:{
       return s;
     }
   },
-  onEachFeature: function (feature, layer) {
-    var s = "<table>";
-    var photoFlg = false;
     function resetHighlight(evt) {
         statesLayer.resetStyle(evt.target);
     }
-    statesLayer = L.geoJson(states, {
-        style: function(feature) {
-                  switch (feature.properties.party) {
-                case "Huyện Sơn Tây": return {color: "#ff0000"};
-                case "Huyện Sơn Hà":  return {color: "#0000ff"};
-            }
-        },
-        onEachFeature: onEachFeature,
-    }).addTo(map);
-        
+  
+  onEachFeature: function (feature, layer) {    
+    var s = "<table>";
+    var photoFlg = false;
     for(name in feature.properties) {
       if(!name.match(/^_/)){
         if(name=="name"){
@@ -97,6 +88,15 @@ geojsonOptions:{
       }
     }
   }
+  statesLayer = L.geoJson(states, {
+        style: function(feature) {
+                  switch (feature.properties.party) {
+                case "Huyện Sơn Tây": return {color: "#ff0000"};
+                case "Huyện Sơn Hà":  return {color: "#0000ff"};
+            }
+        },
+        onEachFeature: onEachFeature,
+    }).addTo(map);
 }
 
 }
