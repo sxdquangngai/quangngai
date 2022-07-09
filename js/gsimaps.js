@@ -34989,12 +34989,12 @@ GSI.TGrid = L.Evented.extend({
       },
       "geojsonOptions": {
         "stroke": true,
-        "color": "#3388FF",
+        "color": "#AB5A13",
         "weight": 2,
         "opacity": 1.00,
         "dashArray": [3, 3],
         "fill": false,
-        "fillColor": "#3388FF",
+        "fillColor": "#AB1322",
         "fillOpacity": 0.20,
         "textColor": "#3388FF",
         "textFontFamilyType": 0,
@@ -35004,7 +35004,7 @@ GSI.TGrid = L.Evented.extend({
         noGeodesic: true,
         pointToLayer: function (feature, latlng) {
           var title = feature.properties["name"];
-          var idstyle = "\"font-size:16px; color:#3388FF; white-space:nowrap; \"";
+          var idstyle = "\"font-size:16px; color:#6CAB13; white-space:nowrap; \"";
           var idAnchor = title.length / 2 * 16;
           var icon = L.divIcon({
             iconAnchor: [idAnchor, 10],
