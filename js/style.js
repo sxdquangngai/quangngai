@@ -71,7 +71,7 @@ geojsonOptions:{
                + "<tr><td colspan='2'>↑写真クリックで拡大表示</td></tr>";
 
         }else{
-          s += "<tr><td style='vertical-align:top; font-size:14px; color:#0000ff;'>" + name + "</td>"
+          s += "<tr><td style='vertical-align:top; font-size:14px; color:#FF0080;'>" + name + "</td>"
                + "<td style='font-size:14px; color:#000000;'>" + feature.properties[name] + "</td></tr>";
         }
       }
