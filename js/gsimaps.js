@@ -13577,7 +13577,7 @@ GSI.GeoJSON = L.Layer.extend({
     geoJSONOptions.onEachFeature = L.bind(this.onEachFeature, this);
     geoJSONOptions.pointToLayer = L.bind(this.onPointToLayer, this);
     geoJSONOptions.geodesic = this.options.geodesic;
-    this.layer = new L.geoJson.css(null, geoJSONOptions);
+    this.layer = new L.GeoJSON(null, geoJSONOptions);
 
     if (!this._layerAdded && this._map) {
       var zoom = this._map.getZoom();
@@ -34989,12 +34989,12 @@ GSI.TGrid = L.Evented.extend({
       },
       "geojsonOptions": {
         "stroke": true,
-        "color": "#EF0B0B",
+        "color": "#3388FF",
         "weight": 2,
         "opacity": 1.00,
         "dashArray": [3, 3],
         "fill": false,
-        "fillColor": "#E7EF0B",
+        "fillColor": "#3388FF",
         "fillOpacity": 0.20,
         "textColor": "#3388FF",
         "textFontFamilyType": 0,
