@@ -44,6 +44,9 @@ geojsonOptions:{
   onEachFeature: function (feature, layer) {
     var s = "<table>";
     var photoFlg = false;
+    function resetHighlight(evt) {
+        statesLayer.resetStyle(evt.target);
+    }
     statesLayer = L.geoJson(states, {
         style: function(feature) {
                   switch (feature.properties.party) {
